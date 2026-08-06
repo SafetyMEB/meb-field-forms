@@ -1,0 +1,14 @@
+{
+  "name": "MEB Field Forms",
+  "short_name": "MEB Forms",
+  "description": "MEB safety field forms — Dry Dock 3 Modernization, Norfolk Naval Shipyard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F3EE",
+  "theme_color": "#12233A",
+  "icons": [
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
